@@ -1,8 +1,8 @@
 # MAZE
 Memory AntiviruZ Evasion
 
-This library is designed to help you  avoid AV false positives by dynamically resolving the address of your desired function.
-As of everything there is potential for misuse
+This library is designed to help you  avoid antivirus software false positives by dynamically resolving the address(ess) of your desired function(s).
+As of everything there is potential for misuse, do not abuse it for bad purpose that would be bad ;) (if you get it, you get it)
 
 ## Usage
 ### Step 1
